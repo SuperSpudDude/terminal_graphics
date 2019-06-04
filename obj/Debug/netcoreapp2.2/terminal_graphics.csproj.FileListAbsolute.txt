@@ -1,0 +1,11 @@
+/home/james/Documents/code/C#/terminal_graphics/bin/Debug/netcoreapp2.2/terminal_graphics.deps.json
+/home/james/Documents/code/C#/terminal_graphics/bin/Debug/netcoreapp2.2/terminal_graphics.runtimeconfig.json
+/home/james/Documents/code/C#/terminal_graphics/bin/Debug/netcoreapp2.2/terminal_graphics.runtimeconfig.dev.json
+/home/james/Documents/code/C#/terminal_graphics/bin/Debug/netcoreapp2.2/terminal_graphics.dll
+/home/james/Documents/code/C#/terminal_graphics/bin/Debug/netcoreapp2.2/terminal_graphics.pdb
+/home/james/Documents/code/C#/terminal_graphics/obj/Debug/netcoreapp2.2/terminal_graphics.csprojAssemblyReference.cache
+/home/james/Documents/code/C#/terminal_graphics/obj/Debug/netcoreapp2.2/terminal_graphics.csproj.CoreCompileInputs.cache
+/home/james/Documents/code/C#/terminal_graphics/obj/Debug/netcoreapp2.2/terminal_graphics.AssemblyInfoInputs.cache
+/home/james/Documents/code/C#/terminal_graphics/obj/Debug/netcoreapp2.2/terminal_graphics.AssemblyInfo.cs
+/home/james/Documents/code/C#/terminal_graphics/obj/Debug/netcoreapp2.2/terminal_graphics.dll
+/home/james/Documents/code/C#/terminal_graphics/obj/Debug/netcoreapp2.2/terminal_graphics.pdb
