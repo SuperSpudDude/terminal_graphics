@@ -2,8 +2,31 @@
 #include <vector>
 #include <algorithm>
 #include <iostream>
-#include "Point.h"
-#include "Vector.h"
+
+class Point{
+    std::string name = "";
+    int X = 0;
+    int Y = 0;
+    public:
+        bool hasName = false;
+        int getX(){ return X;}
+        int getY(){ return Y;}
+        std::string getName(){ return name; }  
+        Point() = default;
+        Point(int, int);
+        Point(int x, int y, std::string n);
+        bool at(int, int);
+};
+
+class Vector{
+    Point *P1;
+    Point *P2;
+    public:
+        Point *getP1(){ return P1;}
+        Point *getP2(){ return P2;}
+        Vector() = default;
+        Vector(Point *, Point *);
+};
 
 class Label{
 
@@ -44,6 +67,5 @@ class Panel{
         // void DrawLabels();
         void DrawBlankPanel();
         void Draw();
-        void toggleLabels();
-        
+        void toggleLabels();      
 };
